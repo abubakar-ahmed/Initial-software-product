@@ -1,4 +1,24 @@
-# The F1TENTH Gym environment
+# EcoDrive Simulator
+
+**EcoDrive Simulator** is a web-based smart mobility platform that leverages **Reinforcement Learning (RL)** to optimize vehicle trajectories and promote sustainable driving.  
+It enables users to compare **AI-generated racing lines** with real driver telemetry, simulate **eco-friendly vs. aggressive** driving styles, and visualize energy efficiency across multiple race tracks.
+
+---
+
+## Project Overview
+
+EcoDrive Simulator combines artificial intelligence, data visualization, and smart mobility concepts into a single platform.  
+It demonstrates how **machine learning**, particularly **Proximal Policy Optimization (PPO)**, can be applied to improve energy efficiency and driving performance in both **autonomous** and **human-driven** scenarios.
+
+---
+
+## Objectives
+
+1. **Conduct a systematic review** of reinforcement learning techniques, mobility datasets, and driver telemetry to define simulator requirements.  
+2. **Design and implement** a web-based simulator with RL-powered racing line optimization and interactive comparative dashboards.  
+3. **Pilot test** the system with users to evaluate trajectory accuracy, energy efficiency, and usability.
+
+---
 
 TODO list:
 - [x] clip lidar after adding noise, put lidar noise in config
