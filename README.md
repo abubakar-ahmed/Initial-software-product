@@ -1,3 +1,5 @@
+### Check video waypoint_vid.mp4
+
 # EcoDrive Simulator
 
 **EcoDrive Simulator** is a web-based smart mobility platform that leverages **Reinforcement Learning (RL)** to optimize vehicle trajectories and promote sustainable driving.  
