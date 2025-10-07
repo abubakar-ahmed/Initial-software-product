@@ -1,6 +1,6 @@
 # The F1TENTH Gym environment
 
-Zirui branch TODO list:
+TODO list:
 - [x] clip lidar after adding noise, put lidar noise in config
 - [x] remove unnecessary use of dictionary. model st is 50% faster, mb is 150% faster.
 - [x] toggle renderer
@@ -19,12 +19,11 @@ Zirui branch TODO list:
 - [ ] merge lidar scan fix
 
 ## Quickstart
-We recommend installing the simulation inside a virtualenv. You can install the environment by running:
+I recommend installing the simulation inside a virtualenv. You can install the environment by running:
 
 ```bash
 virtualenv gym_env
 source gym_env/bin/activate
-git clone https://github.com/f1tenth/f1tenth_gym.git
 cd f1tenth_gym
 pip install -e .
 ```
